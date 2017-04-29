@@ -1,0 +1,3 @@
+rootProject.name = 'TestAmap'
+
+include ':app'
