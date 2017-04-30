@@ -130,6 +130,7 @@ dependencies {
     compile "com.android.support:appcompat-v7:23.0.1"
     compile "com.facebook.react:react-native:+"  // From node_modules
     compile 'com.amap.api:3dmap:latest.integration'
+    compile 'com.amap.api:location:latest.integration'
 }
 
 // Run this once to be able to run the application with BUCK
